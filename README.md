@@ -1,7 +1,3 @@
-To update the README in a professional and well-structured manner, I'll include clear sections for setup, usage, testing, and contributions, while ensuring it covers all the key aspects of the repository. Here's the improved version:
-
----
-
 # Python Selenium Automation for [the-internet](https://the-internet.herokuapp.com)
 
 This project showcases Selenium automation testing for various functionalities provided by [the-internet.herokuapp.com](https://the-internet.herokuapp.com). It includes test cases with a structured and unit-test-based approach.
